@@ -1,7 +1,7 @@
 # Tic-Tac-Toe (Futuristic OOP Two-Player Web-Based Game)
 
 ## Project Overview
-This project is a two-player web-based game that brings the classic strategy game, often played with a paper and a pencil, to life with a modern, engaging, and interactive digital experience. Players (X and O) compete in Player vs Player (PvP) or Player vs CPU (PvC) matches where they strategically take turns on marking a 3x3 grid to get three of their marks in a row (vertically, horizontally, or diagonally), and players can choose a difficulty ranging from *Very Easy* to *Very Hard*. The game also includes move history tracking with a **futuristic neon/glass UI design**, animated GIF background, and immersive background music.
+This project is a two-player web-based game that brings the classic strategy game, often played with a paper and a pencil, to life with a modern, engaging, and interactive digital experience. Players (X and O) compete in Player vs Player (PvP) or Player vs CPU (PvC) matches where they strategically take turns on marking a 3x3 grid to get three of their marks in a row (vertically, horizontally, or diagonally), and players can choose a difficulty ranging from Very Easy to Very Hard. The game also includes move history tracking with a futuristic neon/glass UI design, animated GIF background, and immersive background music.
 
 ## Game Objectives
 - Place your mark/symbol (X or O) to get three cells/boxes in a row (vertical, horizontal, or diagonal).
