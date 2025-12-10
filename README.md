@@ -59,6 +59,16 @@
         - Live Server Web Extensions
 
 ## OOP Implementations
+- **Encapsulation:**
+    - Private properties in 'BaseConfig', 'CpuPlayer', and 'Board' keep internal state safe. Accessed via getters/setters (e.g., 'isMusicEnabled()', 'getCells()').
+- **Inheritance:**
+    - 'HumanPlayer' and 'CpuPlayer' extend the 'Player' base class; 'GameConfig' extends 'BaseConfig'.
+- **Abstraction:**
+    - Abstract classes/methods define contracts:
+        - 'Player' declares 'getType()' for polymorphic behavior.
+        - 'BaseConfig::validate()' requires concrete validation logic.
+- **Polymorphism:**
+    - 'HumanPlayer' and 'CpuPlayer' implement 'getType()' differently. 'Game' accepts any 'Player' subtype, enabling mode flexibility without changing the game's aggregation logic.
 
 ## Video Demonstrations
 - **Charles Cristian Salting:**
