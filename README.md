@@ -28,13 +28,21 @@
 3. **Controls:**
    - **Mouse:** Select a cell/box to place your mark/symbol.
    - **Keyboard:**
-       -
+       - **Up Arrow Key:** Move Up
+       - **Down Arrow Key:** Move Down
+       - **Left Arrow Key:** Move to the Left
+       - **Right Arrow Key:** Move to the Right
+       - **Enter/Space:** Place your mark/symbol
+         
 4. **HUD Options:**
    - **Toggle Music:** Players can turn the background music on/off.
    - **Try Again:** When the player wins/loses the game, it will restart the current match instantly.
    - **Return to Main Menu:** Goes back to the main menu (index.php)
      
 5. **Game Flow:**
+   - The HUD (Head-Up Display) shows whose turn it is.
+   - Each move is recorded in the "Move History" section.
+   - When the game ends, a "Win/Lose/Draw" Screen appears with options to restart or return to the main menu.
 
 ## Prerequisites
 
