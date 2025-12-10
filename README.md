@@ -48,4 +48,21 @@
 
 ## OOP Implementations
 
+## Video Demonstrations
+- **Charles Cristian Salting:**
+    - 
+- **Chezko Jomrey Tupas:**
+    - 
+- **Marc Anthony Bunan:**
+    - 
+- **Alorich Dayrit:**
+    - 
+
 ## Notes to Remember
+- CPU Difficulty Levels:
+    - **Very Easy:** Random
+    - **Easy:** Random with occasional blocking
+    - **Medium:** Heuristic (Win/Block/Center/Corners)
+    - **Hard:** Minimax (limited depth)
+    - **Very Hard:** Minimax (deep/full search)
+- Each PHP Classes initialize and validate the game configuration player/board models. The interactive loop and AI run in JavaScript for responsiveness.
