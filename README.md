@@ -1,11 +1,7 @@
 # Tic-Tac-Toe (Futuristic OOP Two-Player Web-Based Game)
 
 ## Project Overview
-This project is a fully functional, web‑based Tic‑Tac‑Toe game designed as a final project for Object‑Oriented Programming. It combines **PHP (backend logic and OOP principles)** with **HTML, CSS, and JavaScript (frontend interface and interactivity)** to deliver a modern, engaging experience.  
-
-The game emphasizes the **four pillars of OOP** — encapsulation, inheritance, abstraction, and polymorphism — through its PHP class structure for players, the board, and game management. On the frontend, it features a **futuristic neon/glass design**, animated GIF background, and immersive background music.  
-
-Players can choose between **Player vs Player** or **Player vs CPU** modes, with CPU difficulty ranging from *Very Easy* to *Very Hard*. The interface includes move history tracking, keyboard and mouse controls, and dynamic win/lose/draw screens. Together, these elements showcase both technical correctness and creative presentation, making the project a strong demonstration of programming and design skills.
+This project is a two-player web-based game that brings the classic strategy game, often played with a paper and a pencil, to life with a modern, engaging, and interactive digital experience. Players (X and O) compete in Player vs Player (PvP) or Player vs CPU (PvC) matches where they strategically take turns on marking a 3x3 grid to get three of their marks in a row (vertically, horizontally, or diagonally), and players can choose a difficulty ranging from *Very Easy* to *Very Hard*. The game also includes move history tracking with a **futuristic neon/glass UI design**, animated GIF background, and immersive background music.
 
 ## Game Objectives
 - Place your mark/symbol (X or O) to get three cells/boxes in a row (vertical, horizontal, or diagonal).
