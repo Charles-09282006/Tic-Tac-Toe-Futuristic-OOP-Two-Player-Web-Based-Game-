@@ -1,4 +1,4 @@
-# Tic-Tac-Toe (Futuristic OOP Two-Player Web-Based Game
+# Tic-Tac-Toe (Futuristic OOP Two-Player Web-Based Game)
 
 ## Project Overview
 
@@ -45,6 +45,18 @@
    - When the game ends, a "Win/Lose/Draw" Screen appears with options to restart or return to the main menu.
 
 ## Prerequisites
+- Visual Studio Code
+    - **Extensions:**
+        - HTML/CSS Support (by ecmel)
+        - IntelliSense for Css class names in HTML (by Zignd)
+        - StandardJS - JavaScript Standard Style (by Standard)
+        - PHP Intelephense (by Intelephense)
+        - PHP Server (by brapifra)
+        - Live Server (by Ritwick Dey)
+- PHP 7.4+ (or higher) installed locally, or a web server that is capable of running PHP.
+- A modern browser (Google Chrome or Microsoft Edge)
+    - **Extensions:**
+        - Live Server Web Extensions
 
 ## OOP Implementations
 
