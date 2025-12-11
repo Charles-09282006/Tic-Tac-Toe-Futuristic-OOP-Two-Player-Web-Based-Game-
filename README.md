@@ -81,6 +81,7 @@ This project is a two-player web-based game that brings the classic strategy gam
 - In the Menu Bar, go to 'File', and go to 'Open Folder'
 - Select 'tictactoe' folder.
 - Start a local PHP server:
+    - http://125.0.0.1:5500
 - Open your browser at 'http://localhost:8000/index.php'.
 - Choose your mode, and difficulty, then press **Play**.
 - Enjoy!
