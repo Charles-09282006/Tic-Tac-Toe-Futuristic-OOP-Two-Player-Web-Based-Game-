@@ -1,7 +1,7 @@
 # Tic-Tac-Toe (Futuristic OOP Two-Player Web-Based Game)
 
 ## Project Overview
-This project is a two-player web-based game that brings the classic strategy game, often played with a paper and a pencil, to life with a modern, engaging, and interactive digital experience. Players (X and O) compete in Player vs Player (PvP) or Player vs CPU (PvC) matches where they strategically take turns on marking a 3x3 grid to get three of their marks in a row (vertically, horizontally, or diagonally), and players can choose a difficulty ranging from Very Easy to Very Hard. The game also includes move history tracking with a futuristic neon/glass UI design, animated GIF background, and immersive background music.
+This project is a two-player web-based game that brings the classic strategy game, often played with a paper and a pencil, to life with a modern, engaging, and interactive digital experience. Players (X and O) compete in **Player vs Player (PvP)** or **Player vs CPU (PvC)** matches where they strategically take turns on marking a 3x3 grid to get three of their marks in a row (vertically, horizontally, or diagonally), and players can choose a difficulty ranging from **Very Easy** to **Very Hard**. The game also includes move history tracking with a futuristic neon/glass UI design, animated GIF background, and immersive background music.
 
 ## Game Objectives
 - Place your mark/symbol (X or O) to get three cells/boxes in a row (vertical, horizontal, or diagonal).
@@ -53,11 +53,37 @@ This project is a two-player web-based game that brings the classic strategy gam
         - StandardJS - JavaScript Standard Style (by Standard)
         - PHP Intelephense (by Intelephense)
         - PHP Server (by brapifra)
+            - Go to Settings
+            - Set Phpserver: Ip to '0.0.0.0'
+            - Set Phpserver: PHP Path to 'C:\xampp\php\php.exe'
+            - Set Phpserver: Port to '8000'
         - Live Server (by Ritwick Dey)
 - PHP 7.4+ (or higher) installed locally, or a web server that is capable of running PHP.
 - A modern browser (Google Chrome or Microsoft Edge)
     - **Extensions:**
         - Live Server Web Extensions
+
+## Installation Steps
+- Create a folder and name it "tictactoe".
+- Copy all the files that you downloaded inside the folder and follow this structure:
+    - tictactoe/
+        - index.php
+        - game.php
+    - assets/
+        - bg.gif
+        - music.mp3
+    - css/
+        - style.css
+    - js/
+        - game.js
+- Ensure that 'assets/bg.gif' and 'assets/music/mp3' exist and loadable.
+- Open Visual Studio Code.
+- In the Menu Bar, go to 'File', and go to 'Open Folder'
+- Select 'tictactoe' folder.
+- Start a local PHP server:
+- Open your browser at 'http://localhost:8000/index.php'.
+- Choose your mode, and difficulty, then press **Play**.
+- Enjoy!
 
 ## OOP Implementations
 - **Encapsulation:**
