@@ -103,7 +103,7 @@ This project is a two-player web-based game that brings the classic strategy gam
 - **Charles Cristian Salting:**
     - [Watch Video](https://drive.google.com/drive/folders/1Qh0SvfxyJHBsXh-7MfzdIg8-92W6_nXy?usp=sharing)
 - **Chezko Jomrey Tupas:**
-    - [Watch Video]
+    - [Watch Video](https://drive.google.com/drive/folders/145RuGGEWnEhBEQf0yyI15KfFVjDNoSUj?usp=sharing)
 - **Marc Anthony Bunan:**
     - [Watch Video](https://drive.google.com/drive/folders/1yyKCgETnc50FgppQ3CqSQtz5XJ3jgPOk?usp=sharing)
 - **Alorich Dayrit:**
