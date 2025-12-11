@@ -100,13 +100,13 @@ This project is a two-player web-based game that brings the classic strategy gam
 
 ## Video Demonstrations
 - **Charles Cristian Salting:**
-    - 
+    - [Watch Video]
 - **Chezko Jomrey Tupas:**
-    - 
+    - [Watch Video]
 - **Marc Anthony Bunan:**
     - [Watch Video](https://drive.google.com/drive/folders/1yyKCgETnc50FgppQ3CqSQtz5XJ3jgPOk?usp=sharing)
 - **Alorich Dayrit:**
-    - 
+    - [Watch Video]
 
 ## Notes to Remember
 - CPU Difficulty Levels:
