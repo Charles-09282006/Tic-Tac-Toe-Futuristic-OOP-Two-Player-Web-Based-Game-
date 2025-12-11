@@ -64,6 +64,7 @@ This project is a two-player web-based game that brings the classic strategy gam
         - Live Server Web Extensions
 
 ## Installation Steps
+- Go to the "Releases" section and download the v1.0.0-beta ZIP File.
 - Create a folder and name it "tictactoe".
 - Copy all the files that you downloaded inside the folder and follow this structure:
     - tictactoe/
@@ -100,7 +101,7 @@ This project is a two-player web-based game that brings the classic strategy gam
 
 ## Video Demonstrations
 - **Charles Cristian Salting:**
-    - [Watch Video]
+    - [Watch Video](https://drive.google.com/drive/folders/1Qh0SvfxyJHBsXh-7MfzdIg8-92W6_nXy?usp=sharing)
 - **Chezko Jomrey Tupas:**
     - [Watch Video]
 - **Marc Anthony Bunan:**
