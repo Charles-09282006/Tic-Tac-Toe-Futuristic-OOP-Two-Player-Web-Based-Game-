@@ -107,7 +107,7 @@ This project is a two-player web-based game that brings the classic strategy gam
 - **Marc Anthony Bunan:**
     - [Watch Video](https://drive.google.com/drive/folders/1yyKCgETnc50FgppQ3CqSQtz5XJ3jgPOk?usp=sharing)
 - **Alorich Dayrit:**
-    - [Watch Video]
+    - [Watch Video](https://drive.google.com/drive/folders/1XGONI31a7JRB9jVhCaLolQvwHrF_hzcL?usp=sharing)
 
 ## Notes to Remember
 - CPU Difficulty Levels:
@@ -117,3 +117,4 @@ This project is a two-player web-based game that brings the classic strategy gam
     - **Hard:** Minimax (limited depth)
     - **Very Hard:** Minimax (deep/full search)
 - Each PHP Classes initialize and validate the game configuration player/board models. The interactive loop and AI run in JavaScript for responsiveness.
+- Use your domain account to watch our individual video demonstration (For Gordon College Students).
